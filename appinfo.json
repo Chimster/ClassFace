@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mderveeuw@gmail.com",
+    "longName": "ClassFace",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/bt1.png",
+                "name": "RESOURCE_ID_IMAGE_BLUETOOTH",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "ClassFace",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "50fdd9df-f964-4ed1-81c7-f9db75f8e5de",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
